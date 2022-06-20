@@ -1,7 +1,7 @@
 Hi 👋 My name is Miracle Friday
 ===============================
 
-Fullsnack Developer
+Fullsnack Developer (Drop a follow to keep up with work updates)
 -------------------
 
 I'm a full stack developer, i work with node.js for web apps and server side code, while flutter for mobile apps
