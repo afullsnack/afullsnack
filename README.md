@@ -14,7 +14,7 @@ I'm a full stack developer, i work with node.js for web apps and server side cod
 * 🤝  I'm open to collaborating on projects being built with node.js or flutter
 * ⚡  I am highly nychtophilic (the love of night or dark places 🌚)
 
-<a href="https://www.twitter.com/mimi_oncode" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/fullsnac_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mimi_oncode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 ### Skills
