@@ -15,7 +15,7 @@ I'm a full stack developer, i work with node.js for web apps and server side cod
 * ⚡  I am highly nychtophilic (the love of night or dark places 🌚)
 
 <a href="https://www.twitter.com/fullsnac_dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mimi_oncode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
+src="https://img.shields.io/twitter/follow/fullsnac_dev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 ### Skills
 
