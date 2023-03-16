@@ -7,15 +7,15 @@ Hi 👋 My name is Miracle Friday
 I'm a full stack developer, i work with node.js for web apps and server side code, while flutter for mobile apps
 
 * 🌍  I'm based in Nigeria / Abuja
-* 🖥️  See my portfolio at [hotmimi.dev](http://hotmimi.verce.app)
+* 🖥️  See my portfolio at [hotmimi.dev](http://hotmimi.vercel.app)
 * ✉️  You can contact me at [miraclef60@gmail.com](mailto:miraclef60@gmail.com)
-* 🚀  I'm currently working on [Wrap CBDC](http://wrapcbdc.com)
+* 🚀  I'm currently working on [Wrap CBDC](https://wrapcbdc.com), [Flintapi](https://flintapi.io), [Sonergy](https://sonergy.io)
 * 🧠  I'm learning Remix.js react framework for web development
-* 🤝  I'm open to collaborating on projects being built with node.js or flutter
-* ⚡  I am highly nychtophilic (the love of night or dark places 🌚)
+* 🤝  I'm open to collaborating on typescript, flutter or web3 projects
+* ⚡  I am nychtophilic (the love of night or dark places 🌚)
 
-<a href="https://www.twitter.com/fullsnac_dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fullsnac_dev?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
+<a href="https://www.twitter.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/fullsnack_mimi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 ### Skills
 
