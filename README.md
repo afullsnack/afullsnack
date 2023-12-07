@@ -14,8 +14,8 @@ I'm a full stack developer, i work with node.js for web apps and server side cod
 * 🤝  I'm open to collaborating on typescript, flutter or web3 projects
 * ⚡  I am nychtophilic (the love of night or dark places 🌚)
 
-<a href="https://www.twitter.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fullsnack_mimi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
+<a href="https://www.twitter.com/afullsnack" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/afullsnack?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 ### Skills
 
@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/fullsnack_mimi?logo=twitter&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miracle-friday-b0587b119" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sourceKing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miracle-friday-b0587b119" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sourceKing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -57,13 +57,3 @@ src="https://img.shields.io/twitter/follow/fullsnack_mimi?logo=twitter&style=for
 <a href="http://www.github.com/afullsnack"><img src="https://github-readme-stats.vercel.app/api?username=afullsnack&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="afullsnack's GitHub stats" /></a>
 
 <a href="http://www.github.com/afullsnack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=afullsnack&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/afullsnack" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afullsnack&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/afullsnack/polling_dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afullsnack&repo=polling_dashboard&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/afullsnack/needle_tech_server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afullsnack&repo=needle_tech_server&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/afullsnack/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afullsnack&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/afullsnack/jumpq" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afullsnack&repo=jumpq&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
