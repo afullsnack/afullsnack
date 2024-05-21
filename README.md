@@ -4,15 +4,15 @@ Hi 👋 My name is Miracle Friday
 🔥🔥🔥 Fullsnack Developer (Drop a follow to keep up with work updates)
 -------------------
 
-I'm a full stack developer, i work with node.js for web apps and server side code, while flutter for mobile apps
+I'm a full stack developer, i work with typescript and rust to build backend servers and frontend webapps, while react-native for mobile(iOS and Android)
 
 * 🌍  I'm based in Nigeria / Abuja
 * 🖥️  See my portfolio at [afullsnack.dev](https://afullsnack.dev)
 * ✉️  You can contact me at [miraclef60@gmail.com](mailto:miraclef60@gmail.com)
 * 🚀  I'm currently working on [Wrap CBDC](https://wrapcbdc.com), [Flintapi](https://flintapi.io), [Sonergy](https://sonergy.io)
 * 🧠  I'm learning Remix.js react framework for web development
-* 🤝  I'm open to collaborating on typescript, flutter or web3 projects
-* ⚡  I am nychtophilic (the love of night or dark places 🌚)
+* 🤝  I'm open to collaborating on react, react-native, bitcoin/lightning or web3 projects
+* ⚡  I am nychtophilic (the love of night or darkness 🌚)
 
 <a href="https://www.twitter.com/afullsnack" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/afullsnack?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/afullsnack?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fullsnack_mimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miracle-friday-b0587b119" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sourceKing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miracle-friday-b0587b119" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/afullsnack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
