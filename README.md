@@ -9,7 +9,7 @@ I'm a full stack developer, i work with typescript and rust to build backend ser
 * 🌍  I'm based in Nigeria / Abuja
 * 🖥️  See my portfolio at [afullsnack.dev](https://afullsnack.dev)
 * ✉️  You can contact me at [miraclef60@gmail.com](mailto:miraclef60@gmail.com)
-* 🚀  I'm currently working on [Wrap CBDC](https://wrapcbdc.com), [Flintapi](https://flintapi.io), [Sonergy](https://sonergy.io)
+* 🚀  I'm currently working on [Wrap CBDC](https://wrapcbdc.com), [Flintapi](https://flintapi.io)
 * 🧠  I'm learning Remix.js react framework for web development
 * 🤝  I'm open to collaborating on react, react-native, bitcoin/lightning or web3 projects
 * ⚡  I am nychtophilic (the love of night or darkness 🌚)
